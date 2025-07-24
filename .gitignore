@@ -1,0 +1,22 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
+
+# VS Code / Visual Studio
+.vscode/
+bin/
+obj/
+*.user
+*.suo
+
+# Node.js (si usás npm para frontend)
+node_modules/
+dist/
+
+# Publicaciones
+release/
+videos/
